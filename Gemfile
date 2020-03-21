@@ -66,4 +66,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'simple_form'
 # Cloudinary
 gem 'dotenv-rails', groups: [:development, :test]
-
+gem 'cloudinary', '~> 1.12.0'
+# font-awesome
+gem 'font-awesome-sass', '~> 5.6.1'

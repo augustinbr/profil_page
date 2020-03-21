@@ -1,0 +1,16 @@
+.about {
+  padding: 0px 28px 0px 25px;
+  background: white;
+  border-radius: 32px;
+  font-size: 32px;
+  color: black;
+  a {
+    color: black;
+  }
+
+  a:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+  }
+}
