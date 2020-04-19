@@ -1,9 +1,33 @@
 .about {
-  padding: 0px 28px 0px 25px;
+  padding: 5px 28px 5px 25px;
   background: white;
   border-radius: 32px;
   font-size: 32px;
   color: black;
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  a {
+    color: black;
+  }
+
+  a:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+  }
+}
+
+
+.connect {
+  padding: 5px 28px 5px 25px;
+  background: black;
+  border-radius: 32px;
+  font-size: 32px;
+  color: white;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
   a {
     color: black;
   }
