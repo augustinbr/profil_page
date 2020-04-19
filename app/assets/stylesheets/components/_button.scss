@@ -38,3 +38,21 @@
     text-decoration: none;
   }
 }
+
+.email {
+  padding: 5px 28px 5px 25px;
+  background: black;
+  border-radius: 32px;
+  font-size: 15px;
+  color: white;
+  height: 56px;
+  a {
+    color: black;
+  }
+
+  a:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+  }
+}

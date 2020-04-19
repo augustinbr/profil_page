@@ -4,14 +4,14 @@
 
 .wrapper__content {
   background-color: #1E0F21;
-  height: 100vh;
-  display: flex;
+  height: 200vh;
   align-items: center;
 }
 
 
 .main__content {
   margin: 0 auto;
+  padding-top: 120px;
   width: 54%;
 }
 
@@ -19,6 +19,28 @@
   text-align: left;
   width: 489px;
   color: white;
-  padding-top: 100px;
 }
 
+.main__content2 {
+  margin: 120px auto;
+  width: 54%;
+  display: flex;
+  justify-content: center;
+}
+
+.help {
+  text-align: left;
+  width: 489px;
+
+}
+
+.collab {
+  width: 376px;
+  margin: 0 auto;
+  margin-bottom: 36px;
+}
+
+.main__content3 {
+  margin: 0 auto;
+  width: 54%;
+}
