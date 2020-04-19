@@ -1,4 +1,24 @@
 .wrapper__home {
   text-align: center;
-  position: relative;
 }
+
+.wrapper__content {
+  background-color: #1E0F21;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+
+.main__content {
+  margin: 0 auto;
+  width: 54%;
+}
+
+.description {
+  text-align: left;
+  width: 489px;
+  color: white;
+  padding-top: 100px;
+}
+
